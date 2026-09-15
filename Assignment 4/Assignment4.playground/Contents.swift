@@ -51,11 +51,11 @@ struct Student {
 
 var newStudent01 = Student(firstName: "Ajay", lastName: "Chagan")
 //var newStudent02 = Student(firstName: "Bob", lastName: "Frost")
-//var newStudent03 = Student(firstName: "", lastName: "NoName")
+var newStudent03 = Student(firstName: "", lastName: "NoName")
 
 
 //Print Student Name, also practice students
 print(newStudent01.firstName, newStudent01.lastName)
 //print(newStudent02.firstName, newStudent02.lastName)
-//print(newStudent03.firstName, newStudent03.lastName)
+print(newStudent03.firstName, newStudent03.lastName)
 
