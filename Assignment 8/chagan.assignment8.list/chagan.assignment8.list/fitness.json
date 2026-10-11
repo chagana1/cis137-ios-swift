@@ -1,0 +1,104 @@
+[
+    {
+        "id": "1262762d-0de9-4f83-b464-71c8682549f5",
+        "name": "Morning",
+        "items": [
+            {
+                "id": "7b8f384e-508d-45c2-a745-658d2fd97254",
+                "name": "Box Breathing",
+                "photoCredit": "",
+                "price": 0,
+                "description": "Breathing in for 4 seconds, hold for 4 seconds, and out for 4 seconds with another hold for 4 seconds.  Do for 5 minutes before looking at your phone"
+            },
+            {
+                "id": "339b65f1-bca4-4355-aa6c-8bfdcff982c3",
+                "name": "Walking",
+                "photoCredit": "",
+                "price": 0,
+                "description": "Walk for 10 - 15 minutes in the morning especially if you have access to natural sunlight.  Otherwise do some walking around the house to warm up the body"
+            },
+            {
+                "id": "c049eab2-9f4f-4b45-b08f-e45c3e8b6ede",
+                "name": "Drink Water",
+                "photoCredit": "",
+                "price": 0,
+                "description": "Drink room temperature or slightly warm water in the morning to hydrate.  Try at least 8 oz of water and increase or decrease the amount based on how you feel"
+            }
+        ]
+    },
+    {
+        "name": "Afternoon",
+        "id": "78f032c4-84db-41d9-bc90-fddf1e5b23f3",
+        "items": [
+            {
+                "id": "4206bccf-4dda-40cb-8200-7d6839d51f10",
+                "name": "Light Stretching",
+                "photoCredit": "",
+                "price": 0,
+                "description": "Starting from whwere the neck meets the head, slowely and safely stretch each muscle and tendon until you reach your toes.  Move and see how you feel with each part and adjust as needed"
+            },
+            {
+                "id": "9a9a93f0-8a5f-4b41-bbcb-300720c78e0a",
+                "name": "Physical Therapy",
+                "photoCredit": "",
+                "price": 0,
+                "description": "Practice physical therapy and isometric exercise in a slow and controlled way to streghten your joints and muscles. Focus on areas where you are feeling like you need some work and get professional help.  Start building a foundation on parts that don't hurt to improve logevity and prevent injury."
+            },
+            {
+                "id": "686a487a-9431-42f1-a457-cef9027fb7bb",
+                "name": "Mindful walking",
+                "photoCredit": "",
+                "price": 0,
+                "description": "Continue walking where there are opportunities.  Practice walking a few minutes with attention on how you feel and move.  Especially pay attention on how you move up and down stairs or uneven terrain."
+            }
+        ]
+    },
+    {
+        "name": "Evening",
+        "id": "609aec1b-21b4-4f32-adf6-7da913400fe6",
+        "items": [
+            {
+                "id": "aeb6acb9-f179-4ea6-ade0-d45d0b15de02",
+                "name": "Lifting Weights",
+                "photoCredit": "",
+                "price": 25,
+                "description": "Lift 60 - 85% of of your one rep max for 3 to 4 sets of 6 to 8 reps.  Keep the weight low until you perfect your form.  Find a workout routine that works best for you and remember to increase or lowers the weights, reps, and even set to maintain health"
+            },
+            {
+                "id": "4b0910be-6ed7-475a-addb-22e476137584",
+                "name": "Evening Stretch",
+                "photoCredit": "",
+                "price": 0,
+                "description": "Slowly increase the range of your stretches to maintain healthy muscles and joints.  Try using both static and dynamic stretches.  Repeat physical therapy exercises slowly if that helps keep you warm"
+            },
+            {
+                "id": "d8b22ffa-6e64-44f9-8d39-37bc5f698e2a",
+                "name": "Hydrate before bed",
+                "photoCredit": "",
+                "price": 0,
+                "description": "Drink water or broth in the evening to remain hydrated throughout the night.  Adjust to amount so you can rest peacefully and try to get at least 8 hours of rest each night"
+            }
+        ]
+    },
+    {
+        "name": "Extra Credit",
+        "id": "953ce9cf-e7e7-4c9d-b059-1e136b94f7ab",
+        "items": [
+            {
+                "id": "11eaaef0-ca1e-45db-ba3d-102408418d1e",
+                "name": "Balance Exercises",
+                "photoCredit": "",
+                "price": 10,
+                "description": "Start on flat safe surface with the ability to catch yourself, or use a balance dome or platform to work on your balance.  Try different exercises and positions to challenge balance in different planes."
+            },
+            {
+                "id": "a8f06cf0-41ef-445f-8f94-2b5bf0183fb1",
+                "name": "Deep Core Work",
+                "photoCredit": "",
+                "price": 0,
+                "description": "Try 90 - 90 deep breathing and other deep core exercises.  Use resistance to challenge your core and maintain stability.  Deep core work is different from other ab exercises, it often does not look like much but improves multiple functions of your body."
+            }
+        ]
+    }
+]
+
